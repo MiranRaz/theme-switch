@@ -2,3 +2,5 @@
 
 ## React + Tailwind CSS Theme Switch
 Light, Dark & System Preference (Default) Option
+
+Live Link [Here](https://theme-switch-lime.vercel.app/)
